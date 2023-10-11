@@ -1,4 +1,4 @@
-# Bienvenid@s al Gitbhub IsabeloCastillo
+# Bienvenid@s al Gitbhub de Isabelo Castillo
 
 ### Aqui verás como trabajo mi codigo y los proyectos en los que actúo.
 
