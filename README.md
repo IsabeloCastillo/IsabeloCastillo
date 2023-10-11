@@ -10,7 +10,7 @@
 [Mi Repositorio de prueba](https://github.com/IsabeloCastillo/MiPrimerRepositorio) Este es mi primer repositorio
 
 # Mis Estadísticas en Github
-[![Hua's github stats](https://github-readme-stats.vercel.app/api?username=IsabeloCastillo&show_icons=true&theme=dark)(https://github.com/IsabeloCastillo/github-readme-stats)
+[![Hua's github stats](https://github-readme-stats.vercel.app/api?username=IsabeloCastillo&show_icons=true&theme=dark)](https://github.com/IsabeloCastillo/github-readme-stats)
 
 
 
