@@ -21,6 +21,8 @@
 [![Twitter Badge](https://img.shields.io/badge/-IsabeloCastillo-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/IsabeloCastillo)](https://twitter.com/IsabeloCastillo)
 [![Email Badge](https://img.shields.io/badge/-isabelocastillosanchez%40gmail.com-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:isabelocastillosanchez@gmail.com)](mailto:isabelocastillosanchez@gmail.com)
 
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![GitHub followers](https://img.shields.io/github/followers/IsabeloCastillo?label=Follow&style=social)
 
 
 
