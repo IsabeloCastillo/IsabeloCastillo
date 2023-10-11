@@ -7,7 +7,7 @@
 import requests
 import json
 
-def mis_estadisticas_github(username):
+def mis_estadisticas_github(https://github.com/IsabeloCastillo):
     # URL para la API de GitHub que nos dará los datos del usuario
     url = f"https://api.github.com/users/{username}"
     
