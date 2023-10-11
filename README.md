@@ -15,6 +15,8 @@
 
 ### Contact:
 [![Linkedin Badge](https://img.shields.io/badge/-Isabelo_Castillo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/isabelo-castillo-945168255/)](https://www.linkedin.com/in/isabelo-castillo-945168255/)
+[![Email Badge](https://img.shields.io/badge/-isabelocastillosanchez%40gmail.com-blue?style=flat-square&logo=Gmail&logoColor=white&link=mailto:isabelocastillosanchez@gmail.com)](mailto:isabelocastillosanchez@gmail.com)
+
 
 
 
