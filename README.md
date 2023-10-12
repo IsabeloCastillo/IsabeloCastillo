@@ -1,7 +1,8 @@
 # Bienvenid@s al Gitbhub de Isabelo Castillo
 
 ### Aquí podrás observar mi enfoque en la programación y los proyectos en los que participo.
-![](https://rare-gallery.com/thumbs/537468-binary-technology.jpg)
+![](./images/imagen_cabecera.jpg)
+
 
 
 ## Mis Repositorios
