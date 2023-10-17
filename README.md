@@ -1,7 +1,7 @@
 # Bienvenid@s al Gitbhub de Isabelo Castillo
 
 ### Aquí podrás observar mi enfoque en la programación y los proyectos en los que participo.
-![](./images/imagen_cabecera.jpg)
+![](./images/logo_softClarion.png)
 
 
 
