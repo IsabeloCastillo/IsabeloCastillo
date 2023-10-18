@@ -1,5 +1,8 @@
 # Bienvenid@s al Github de Isabelo Castillo
 
+### Aquí podrás observar mi enfoque en la programación y los proyectos en los que participo.
+![](./images/logo_softClarion.png)
+
 Soy programador y desarrollador con experiencia en el diseño, desarrollo, implementación y mantenimiento de redes informáticas. Me especializo en la creación de software para satisfacer tanto las necesidades de los usuarios como de las empresas. Tengo amplios conocimientos en bases de datos relacionales y desarrollo de software. **Actualmente me estoy especializando en Inteligencia Artificial, Machine Learning y Deep Learning.**
 
 - **Desarrollo**: Creación de scripts en Python mantenibles y escalables para ejecutar pruebas en equipos de red.
