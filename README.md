@@ -1,15 +1,29 @@
 # Bienvenid@s al Gitbhub de Isabelo Castillo
 
-![](https://www.pexels.com/es-es/foto/anteojos-de-cultivo-negro-delante-de-la-computadora-portatil-577585/)
-
 ### Aquí podrás observar mi enfoque en la programación y los proyectos en los que participo.
 ![](./images/logo_softClarion.png)
 
 
+#### Lenguajes de Programación:
+![Python](https://img.shields.io/badge/-Python-blue)
 
-## Mis Repositorios
+#### Herramientas y Entornos:
+![Git](https://img.shields.io/badge/-Git-black)
+![PyCharm](https://img.shields.io/badge/-PyCharm-orange)
+![Anaconda](https://img.shields.io/badge/-Anaconda-green)
+![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-orange)
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-blue)
 
-[Mi Repositorio de prueba](https://github.com/IsabeloCastillo/MiPrimerRepositorio) Este es mi primer repositorio
+
+### Soft Skills:
+![Resolución de Problemas](https://img.shields.io/badge/-Resoluci%C3%B3n%20de%20Problemas-yellow)
+![Comunicación](https://img.shields.io/badge/-Comunicaci%C3%B3n-brightgreen)
+![Adaptabilidad](https://img.shields.io/badge/-Adaptabilidad-yellowgreen)
+![Iniciativa](https://img.shields.io/badge/-Iniciativa-orange)
+![Pensamiento Analítico](https://img.shields.io/badge/-Pensamiento%20Anal%C3%ADtico-red)
+![Colaboración](https://img.shields.io/badge/-Colaboraci%C3%B3n-blue)
+![Proactividad](https://img.shields.io/badge/-Proactividad%C3%B3n-brightgreen)
+![Resiliencia](https://img.shields.io/badge/-Resiliencia-lightgrey)
 
 # Mis Estadísticas en Github
 [![Hua's github stats](https://github-readme-stats.vercel.app/api?username=IsabeloCastillo&show_icons=true&theme=dark)](https://github.com/IsabeloCastillo/github-readme-stats)
