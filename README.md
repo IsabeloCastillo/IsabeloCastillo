@@ -1,5 +1,7 @@
 # Bienvenid@s al Gitbhub de Isabelo Castillo
 
+![](https://www.pexels.com/es-es/foto/anteojos-de-cultivo-negro-delante-de-la-computadora-portatil-577585/)
+
 ### Aquí podrás observar mi enfoque en la programación y los proyectos en los que participo.
 ![](./images/logo_softClarion.png)
 
