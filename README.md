@@ -1,8 +1,8 @@
 # Bienvenid@s al Github de Isabelo Castillo
 
 ### Aquí podrás observar mi enfoque en la programación y los proyectos en los que participo.
-<img src="./images/logo_softClarion.png" alt="Logo de SoftClarion" width="500"/>
-<img src="./images/logo_avatel_negro.png" alt="Logo de Avatel" width="500"/>
+<img src="./images/logo_softClarion.png" alt="Logo de SoftClarion" width="400"/><img src="./images/logo_avatel_negro.png" alt="Logo de Avatel" width="400"/>
+
 
 
 Soy programador y desarrollador con experiencia en el diseño, desarrollo, implementación y mantenimiento de redes de fibra óptica. Creo software para satisfacer tanto las necesidades de los usuarios como de las empresas. Tengo amplios conocimientos en bases de datos relacionales y desarrollo de software. **Actualmente me estoy especializando en Inteligencia Artificial, Machine Learning y Deep Learning.**
