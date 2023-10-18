@@ -5,7 +5,7 @@
 <img src="./images/logo_avatel_negro.png" alt="Logo de Avatel" width="500"/>
 
 
-Soy programador y desarrollador con experiencia en el diseño, desarrollo, implementación y mantenimiento de redes informáticas. Me especializo en la creación de software para satisfacer tanto las necesidades de los usuarios como de las empresas. Tengo amplios conocimientos en bases de datos relacionales y desarrollo de software. **Actualmente me estoy especializando en Inteligencia Artificial, Machine Learning y Deep Learning.**
+Soy programador y desarrollador con experiencia en el diseño, desarrollo, implementación y mantenimiento de redes de fibra óptica. Creo software para satisfacer tanto las necesidades de los usuarios como de las empresas. Tengo amplios conocimientos en bases de datos relacionales y desarrollo de software. **Actualmente me estoy especializando en Inteligencia Artificial, Machine Learning y Deep Learning.**
 
 - **Desarrollo**: Creación de scripts en Python mantenibles y escalables para ejecutar pruebas en equipos de red.
 - **Aplicaciones**: Desarrollo de aplicaciones web, de escritorio y móviles para la gestión y automatización de procesos internos. Utilizo frameworks como Flask, Django y Kivy, siempre siguiendo las mejores prácticas.
