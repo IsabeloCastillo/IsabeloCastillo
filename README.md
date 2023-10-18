@@ -1,9 +1,6 @@
 # Bienvenid@s al Github de Isabelo Castillo
 
-### Aquí podrás observar mi enfoque en la programación y los proyectos en los que participo.
-![](./images/logo_softClarion.png)
-
-Soy programador y desarrollador con experiencia en el diseño, desarrollo, implementación y mantenimiento de redes informáticas. Me especializo en la creación de software para satisfacer tanto las necesidades de los usuarios como de las empresas. Tengo amplios conocimientos en bases de datos relacionales y desarrollo de software.
+Soy programador y desarrollador con experiencia en el diseño, desarrollo, implementación y mantenimiento de redes informáticas. Me especializo en la creación de software para satisfacer tanto las necesidades de los usuarios como de las empresas. Tengo amplios conocimientos en bases de datos relacionales y desarrollo de software. **Actualmente me estoy especializando en Inteligencia Artificial, Machine Learning y Deep Learning.**
 
 - **Desarrollo**: Creación de scripts en Python mantenibles y escalables para ejecutar pruebas en equipos de red.
 - **Aplicaciones**: Desarrollo de aplicaciones web, de escritorio y móviles para la gestión y automatización de procesos internos. Utilizo frameworks como Flask, Django y Kivy, siempre siguiendo las mejores prácticas.
@@ -56,8 +53,6 @@ Soy programador y desarrollador con experiencia en el diseño, desarrollo, imple
 [![Email Badge](https://img.shields.io/badge/-isabelocastillosanchez%40gmail.com-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:isabelocastillosanchez@gmail.com)](mailto:isabelocastillosanchez@gmail.com)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![GitHub followers](https://img.shields.io/github/followers/IsabeloCastillo?label=Follow&style=social)
-
-
 
 
 
