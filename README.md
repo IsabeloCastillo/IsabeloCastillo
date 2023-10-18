@@ -1,7 +1,7 @@
 # Bienvenid@s al Github de Isabelo Castillo
 
 ### Aquí podrás observar mi enfoque en la programación y los proyectos en los que participo.
-<img src="./images/logo_softClarion.png" alt="Logo de SoftClarion" width="400"/><img src="./images/logo_avatel_negro.png" alt="Logo de Avatel" width="450"/>
+<img src="./images/logo_softClarion.png" alt="Logo de SoftClarion" width="400"/> <img src="./images/logo_avatel_negro.png" alt="Logo de Avatel" width="440"/>
 
 
 
