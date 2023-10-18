@@ -2,7 +2,7 @@
 
 ### Aquí podrás observar mi enfoque en la programación y los proyectos en los que participo.
 <img src="./images/logo_softClarion.png" alt="Logo de SoftClarion" width="500"/>
-<img src="./images/logo_avatel.svg" alt="Logo de SoftClarion" width="500"/>
+<img src="./images/logo_avatel.svg" alt="Logo de Avatel" width="500"/>
 
 
 Soy programador y desarrollador con experiencia en el diseño, desarrollo, implementación y mantenimiento de redes informáticas. Me especializo en la creación de software para satisfacer tanto las necesidades de los usuarios como de las empresas. Tengo amplios conocimientos en bases de datos relacionales y desarrollo de software. **Actualmente me estoy especializando en Inteligencia Artificial, Machine Learning y Deep Learning.**
