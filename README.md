@@ -40,6 +40,9 @@ Soy programador , desarrollador y analista de datos, con experiencia en el secto
 
 ## Lenguajes de Programación:
 ![Python](https://img.shields.io/badge/-Python-blue)
+![Pandas](https://img.shields.io/badge/-Pandas-brightgreen)
+![NumPy](https://img.shields.io/badge/-NumPy-yellow)
+![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-blue)
 
 ## Herramientas y Entornos:
 ![Git](https://img.shields.io/badge/-Git-black)
