@@ -11,6 +11,9 @@ Soy programador , desarrollador y analista de datos, con experiencia en el secto
 - **Aplicaciones**: Desarrollo de aplicaciones web, de escritorio y móviles para la gestión y automatización de procesos internos. Utilizo frameworks como Flask, Django y Kivy, siempre siguiendo las mejores prácticas.
 
 ### Aptitudes Técnicas:
+![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-blueviolet)
+![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-ff69b4)
+![Data Science](https://img.shields.io/badge/-Data%20Science-brightgreen)
 ![Fibra óptica](https://img.shields.io/badge/-Fibra%20%C3%B3ptica-blue)
 ![Microsoft Office](https://img.shields.io/badge/-Microsoft%20Office-orange)
 ![Mecanografiado de textos](https://img.shields.io/badge/-Mecanografiado%20de%20textos-green)
@@ -21,6 +24,7 @@ Soy programador , desarrollador y analista de datos, con experiencia en el secto
 ![Kivy](https://img.shields.io/badge/-Kivy-purple)
 ![CorelDRAW](https://img.shields.io/badge/-CorelDRAW-lightgrey)
 ![Adobe Photoshop](https://img.shields.io/badge/-Adobe%20Photoshop-orange)
+
 
 ### Aptitudes Sociales:
 ![Trabajo en equipo](https://img.shields.io/badge/-Trabajo%20en%20equipo-blue)
