@@ -3,10 +3,10 @@
 ### Aquí podrás observar mi enfoque en la programación y los proyectos en los que participo.
 <img src="./images/logo_softClarion.png" alt="Logo de SoftClarion" width="280"/> <img src="./images/logo_avatel_negro.png" alt="Logo de Avatel" width="300"/>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isabelo-castillo/) 
+
 ## 🌐 Socials:
 [![Kaggle](https://img.shields.io/badge/Kaggle-%2320BEFF.svg?logo=kaggle&logoColor=white)](https://www.kaggle.com/isabelocastillo)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isabelo-castillo/) 
 
 
 
