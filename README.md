@@ -25,6 +25,7 @@ Soy programador , desarrollador y analista de datos, con experiencia en el secto
 ![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-blue)
 ![Tableau](https://img.shields.io/badge/-Tableau-blue)
 ![PowerBI](https://img.shields.io/badge/-PowerBI-orange)
+![Docker](https://img.shields.io/badge/-Docker-blue)
 ![Tkinter](https://img.shields.io/badge/-Tkinter-yellow)
 ![Flask](https://img.shields.io/badge/-Flask-red)
 ![Django](https://img.shields.io/badge/-Django-green)
@@ -34,6 +35,7 @@ Soy programador , desarrollador y analista de datos, con experiencia en el secto
 ![Fibra óptica](https://img.shields.io/badge/-Fibra%20%C3%B3ptica-blue)
 ![CorelDRAW](https://img.shields.io/badge/-CorelDRAW-lightgrey)
 ![Adobe Photoshop](https://img.shields.io/badge/-Adobe%20Photoshop-orange)
+
 
 
 ## 😀 Aptitudes Sociales:
