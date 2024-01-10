@@ -15,7 +15,7 @@ Soy programador , desarrollador y analista de datos, con experiencia en el secto
 - **Desarrollo**: Creación de scripts en Python mantenibles y escalables para ejecutar pruebas en equipos de red.
 - **Aplicaciones**: Desarrollo de aplicaciones web, de escritorio y móviles para la gestión y automatización de procesos internos. Utilizo frameworks como Flask, Django y Kivy, siempre siguiendo las mejores prácticas.
 
-# 💻 Tech Stack:
+## 💻 Tech Stack:
 ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-blueviolet)
 ![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-ff69b4)
 ![Data Science](https://img.shields.io/badge/-Data%20Science-brightgreen)
@@ -36,27 +36,27 @@ Soy programador , desarrollador y analista de datos, con experiencia en el secto
 ![Adobe Photoshop](https://img.shields.io/badge/-Adobe%20Photoshop-orange)
 
 
-# 😀 Aptitudes Sociales:
+## 😀 Aptitudes Sociales:
 ![Trabajo en equipo](https://img.shields.io/badge/-Trabajo%20en%20equipo-blue)
 ![Scrum](https://img.shields.io/badge/-Scrum-yellow)
 ![Gestión del trabajo en equipo híbrido](https://img.shields.io/badge/-Gesti%C3%B3n%20del%20trabajo%20en%20equipo%20h%C3%ADbrido-lightgrey)
 ![Motivación de equipo](https://img.shields.io/badge/-Motivaci%C3%B3n%20de%20equipo-orange)
 ![Charlas de motivación](https://img.shields.io/badge/-Charlas%20de%20motivaci%C3%B3n-red)
 
-# 🖥️ Lenguajes de Programación:
+## 🖥️ Lenguajes de Programación:
 ![Python](https://img.shields.io/badge/-Python-blue)
 ![Pandas](https://img.shields.io/badge/-Pandas-brightgreen)
 ![NumPy](https://img.shields.io/badge/-NumPy-yellow)
 ![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-blue)
 
-# 🔧 Herramientas y Entornos:
+## 🔧 Herramientas y Entornos:
 ![Git](https://img.shields.io/badge/-Git-black)
 ![PyCharm](https://img.shields.io/badge/-PyCharm-orange)
 ![Anaconda](https://img.shields.io/badge/-Anaconda-green)
 ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-orange)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-blue)
 
-# 🤝 Soft Skills:
+## 🤝 Soft Skills:
 ![Resolución de Problemas](https://img.shields.io/badge/-Resoluci%C3%B3n%20de%20Problemas-yellow)
 ![Comunicación](https://img.shields.io/badge/-Comunicaci%C3%B3n-brightgreen)
 ![Adaptabilidad](https://img.shields.io/badge/-Adaptabilidad-yellowgreen)
@@ -66,10 +66,10 @@ Soy programador , desarrollador y analista de datos, con experiencia en el secto
 ![Proactividad](https://img.shields.io/badge/-Proactividad%C3%B3n-brightgreen)
 ![Resiliencia](https://img.shields.io/badge/-Resiliencia-lightgrey)
 
-# 📊 Mis Estadísticas en Github
+## 📊 Mis Estadísticas en Github
 ![Isabelo's GitHub stats](https://github-readme-stats.vercel.app/api?username=IsabeloCastillo&show_icons=true&theme=radical)
 
-# 📧 Contacto:
+## 📧 Contacto:
 [![Linkedin Badge](https://img.shields.io/badge/-Isabelo_Castillo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/isabelo-castillo-945168255/)](https://www.linkedin.com/in/isabelo-castillo-945168255/)
 [![Twitter Badge](https://img.shields.io/badge/-IsabeloCastillo-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/IsabeloCastillo)](https://twitter.com/IsabeloCastillo)
 [![Email Badge](https://img.shields.io/badge/-isabelocastillosanchez%40gmail.com-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:isabelocastillosanchez@gmail.com)](mailto:isabelocastillosanchez@gmail.com)
