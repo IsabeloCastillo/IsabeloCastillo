@@ -3,6 +3,8 @@
 ### Aquí podrás observar mi enfoque en la programación y los proyectos en los que participo.
 <img src="./images/logo_softClarion.png" alt="Logo de SoftClarion" width="280"/> <img src="./images/logo_avatel_negro.png" alt="Logo de Avatel" width="300"/>
 
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isabelo-castillo/) 
 
 
 Soy programador , desarrollador y analista de datos, con experiencia en el sector de las telecomunicaciones, mantenimiento, soporte y crecimiento en empresas de redes de fibra óptica. Creo software para satisfacer tanto las necesidades de los usuarios como de las empresas. Tengo amplios conocimientos en bases de datos relacionales y desarrollo de software. **Actualmente me estoy especializando en Inteligencia Artificial, Machine Learning y Deep Learning.**
