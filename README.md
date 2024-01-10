@@ -16,12 +16,6 @@ Soy programador , desarrollador y analista de datos, con experiencia en el secto
 - **Aplicaciones**: Desarrollo de aplicaciones web, de escritorio y móviles para la gestión y automatización de procesos internos. Utilizo frameworks como Flask, Django y Kivy, siempre siguiendo las mejores prácticas.
 
 
-En mi rol, me especializo en ayudar a extraer, limpiar, preparar y analizar datos, asegurando la calidad y eficiencia en el manejo de información. Además, me dedico al desarrollo de scripts en Python mantenibles y escalables para ejecutar pruebas en equipos de red. En el ámbito de aplicaciones, desarrollo soluciones web, de escritorio y móviles para la gestión y automatización de procesos internos, utilizando frameworks como Flask, Django y Kivy, siempre siguiendo las mejores prácticas
-
-
-
-
-
 ## 💻 Tech Stack:
 ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-blueviolet)
 ![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-ff69b4)
