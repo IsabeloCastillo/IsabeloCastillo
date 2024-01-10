@@ -12,8 +12,15 @@
 
 Soy programador , desarrollador y analista de datos, con experiencia en el sector de las telecomunicaciones, mantenimiento, soporte y crecimiento en empresas de redes de fibra óptica. Creo software para satisfacer tanto las necesidades de los usuarios como de las empresas. Tengo amplios conocimientos en bases de datos relacionales y desarrollo de software. **Actualmente me estoy especializando en Inteligencia Artificial, Machine Learning y Deep Learning.**
 
-- **Desarrollo**: Creación de scripts en Python mantenibles y escalables para ejecutar pruebas en equipos de red.
+- **Desarrollo**: Me especializo en ayudar a extraer, limpiar, preparar y analizar datos, asegurando la calidad y eficiencia en el manejo de información. Además, me dedico al desarrollo de scripts en Python mantenibles y escalables para ejecutar pruebas en equipos de red.
 - **Aplicaciones**: Desarrollo de aplicaciones web, de escritorio y móviles para la gestión y automatización de procesos internos. Utilizo frameworks como Flask, Django y Kivy, siempre siguiendo las mejores prácticas.
+
+
+En mi rol, me especializo en ayudar a extraer, limpiar, preparar y analizar datos, asegurando la calidad y eficiencia en el manejo de información. Además, me dedico al desarrollo de scripts en Python mantenibles y escalables para ejecutar pruebas en equipos de red. En el ámbito de aplicaciones, desarrollo soluciones web, de escritorio y móviles para la gestión y automatización de procesos internos, utilizando frameworks como Flask, Django y Kivy, siempre siguiendo las mejores prácticas
+
+
+
+
 
 ## 💻 Tech Stack:
 ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-blueviolet)
