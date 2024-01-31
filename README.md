@@ -1,5 +1,6 @@
 # Bienvenid@s al Github de Isabelo Castillo
 
+
 ### Aquí podrás observar mi enfoque en la programación y los proyectos en los que participo.
 <img src="./images/logo_softClarion.png" alt="Logo de SoftClarion" width="280"/> <img src="./images/logo_avatel_negro.png" alt="Logo de Avatel" width="300"/>
 
@@ -7,6 +8,9 @@
 ## 🌐 Socials:
 [![Kaggle](https://img.shields.io/badge/Kaggle-%2320BEFF.svg?logo=kaggle&logoColor=white)](https://www.kaggle.com/isabelocastillo)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isabelo-castillo/) 
+
+<div class="badge-base LI-profile-badge" data-locale="es_ES" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="isabelocastillo" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://es.linkedin.com/in/isabelocastillo?trk=profile-badge">Isabelo Castillo</a></div>
+              
 
 
 
